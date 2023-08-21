@@ -8115,6 +8115,13 @@ textarea.form-control-lg {
   --bs-text-opacity: 1;
 }
 
+.bg-image{
+  background-image: url(/assets/img/fotos/Grupo_67.png);
+  background-size: cover;
+  min-height: 90vh;
+
+}
+
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
