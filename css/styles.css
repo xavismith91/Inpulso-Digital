@@ -299,6 +299,11 @@ svg {
   vertical-align: middle;
 }
 
+.img-logo{
+  width: 7rem;
+  height: auto;
+}
+
 table {
   caption-side: bottom;
   border-collapse: collapse;
