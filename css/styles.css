@@ -300,7 +300,7 @@ svg {
 }
 
 .img-logo{
-  width: 7rem;
+  width: 10%;
   height: auto;
 }
 
@@ -6656,7 +6656,7 @@ textarea.form-control-lg {
 }
 
 .text-bg-secondary {
-  color: #fff !important;
+  color:  !important;
   background-color: RGBA(44, 62, 80, var(--bs-bg-opacity, 1)) !important;
 }
 
@@ -11039,7 +11039,7 @@ html {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2c3e50;
+  background-color: #1a252f;
   color: #fff;
 }
 
